@@ -1,8 +1,8 @@
 # Ciao, I'm Luca 👋
 
-I am a Senior Software Engineer, specializing in modern web technologies, with a strong focus on software scalability and performance optimization. Since my early years, I have been truly passionate about programming, always evolving my skills to deliver high-quality, scalable solutions.
+Hi, I’m Luca, a Senior Software Engineer passionate about modern web technologies with a focus on building scalable, high-performance software. Programming has been my passion since childhood, driving me to constantly improve and deliver quality solutions. I’ve gained valuable experience working with startups and scale-ups, where agility and innovation are key. Beyond coding, I lead an active lifestyle—I teach Acroyoga and enjoy rock climbing, freediving, surfing, and surfskate. I’m also deeply committed to protecting the environment and supporting animal welfare, which inspires me both in and out of work.
 
-Beyond the code, I am deeply committed to an active lifestyle and to environmental causes. I teach Acroyoga, and I enjoy rock climbing, bouldering, freediving, surfing, and surfskate. I am also working on mastering handstands, combining physical strength with mental focus. Protecting nature and promoting animal welfare, these are causes very close to my heart.
+<!--
 
 ## About me
 - 🌍 I am a remote freelancer, with experience in startups and scale-ups.
